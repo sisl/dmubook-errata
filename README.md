@@ -9,3 +9,4 @@ Errata to Decision Making Under Uncertainty: Theory and Application
 * Sec. 3.1.1: in independence condition, second \succ should be \succeq (Ellen Blaine)
 * Fig. 6.6: some of the alpha vectors did not print correctly (noted by Yi-Chun Chen); the figure should look like this: <img src="alphavectors.png" alt="fig.6.6" width="300">
 * Sec. 6.4.5 (second sentence): replace "each belief state B" with "each belief state in B" (Zongzhang Zhang)
+* Sec. 4.2.4 (last sentence): replace "2*epsilon*gamma/(1-gamma)" with "2*epsilon" (Zongzhang Zhang)
