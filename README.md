@@ -5,7 +5,6 @@ Errata to Decision Making Under Uncertainty: Theory and Application
 * Eq. 6.11: switch a and s in the transition function to be consistent with the notation in the book (Max Egorov)
 * Eq. 2.61: (v_i - \hat\mu) should be squared
 * P. 59, sentence before eq. 3.3: replace u^1 with c^1 (David Wagner)
-* Eq. 2.76: equals sign to should be \propto (Haruki Nishimura)
 * Sec. 3.1.1: in independence condition, second \succ should be \succeq (Ellen Blaine)
 * Fig. 3.6: The code used to generate this figure had a small bug. The histograms should be more distributed as shown [here](http://nbviewer.jupyter.org/github/sisl/aa228-notebook/blob/master/07-Games.ipynb).
 * Sec. 4.2.4 (last sentence): replace "2*epsilon*gamma/(1-gamma)" with "2*epsilon" (Zongzhang Zhang)
