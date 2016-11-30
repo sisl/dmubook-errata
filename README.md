@@ -12,3 +12,4 @@ Errata to Decision Making Under Uncertainty: Theory and Application
 * Fig. 6.6: some of the alpha vectors did not print correctly (noted by Yi-Chun Chen); the figure should look like this: <img src="alphavectors.png" alt="fig.6.6" width="300">
 * Sec. 6.4.5 (second sentence): replace "each belief state B" with "each belief state in B" (Zongzhang Zhang)
 * Ch. 7: references 12, 15, 38, and 63 should have "POMDPS" and "MDPS" changed to "POMDPs" and "MDPs" (Zongzhang Zhang)
+* Eq. 6.31: should be $\sum_s b(s) \sum_{s'} O(o \mid s', a)T(s' \mid s, a)$ (Junzi Zhang)
