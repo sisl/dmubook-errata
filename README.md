@@ -18,4 +18,4 @@ These items have been fixed in the second printing and later.
 
 This item will be fixed in a later printing:
 
-* Alg. 4.1: U should have \pi as a superscript everywhere (Benjamin Atin)
+* Alg. 4.1: U should have \pi as a superscript everywhere (Benjamin Antin)
