@@ -19,4 +19,5 @@ These items have been fixed in the second printing and later.
 This item will be fixed in a later printing:
 
 * Alg. 4.1: U should have \pi as a superscript everywhere (Benjamin Antin)
-* Eq. 4.24 and 4.27: The rightmost Ta should be transposed.
+* Eq. 4.24 and 4.27: The rightmost Ta should be transposed (Tim Wheeler)
+* Alg 2.1, line 2: Drop the subscript on the s
