@@ -22,3 +22,4 @@ This item will be fixed in a later printing:
 * Eq. 4.24 and 4.27: The rightmost Ta should be transposed (Tim Wheeler)
 * Alg 2.1, line 2: Drop the subscript on the s
 * Alg 4.9, line 13: for consistency arg max should be over A(s) rather than all of A
+* Eq. 4.36: It should be explained that if N(s,a) = 0, then the exploration bonus is treated as infinity (Tim Wheeler)
