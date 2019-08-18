@@ -23,3 +23,4 @@ This item will be fixed in a later printing:
 * Alg 2.1, line 2: Drop the subscript on the s
 * Alg 4.9, line 13: for consistency arg max should be over A(s) rather than all of A
 * Eq. 4.36: It should be explained that if N(s,a) = 0, then the exploration bonus is treated as infinity (Tim Wheeler)
+* Eq. 6.15-6.17: The Kalman filter equations should look like [this](kalman-filter.PNG) (Tim Wheeler)
