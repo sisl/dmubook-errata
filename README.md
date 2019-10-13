@@ -25,3 +25,4 @@ This item will be fixed in a later printing:
 * Eq. 4.36: It should be explained that if N(s,a) = 0, then the exploration bonus is treated as infinity (Tim Wheeler)
 * Eq. 6.15-6.17: The Kalman filter equations should look like [this](kalman-filter.PNG) (Tim Wheeler)
 * Table 10.2: ft/s in the rightmost column should be ft/min (Cem Polat)
+* Sec. 1.5: `[10]` should be swapped with `[11]` (Vladislav Ankudinov)
