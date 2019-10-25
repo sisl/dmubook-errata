@@ -27,3 +27,4 @@ This item will be fixed in a later printing:
 * Table 10.2: ft/s in the rightmost column should be ft/min (Cem Polat)
 * Sec. 1.5: `[10]` should be swapped with `[11]` (Vladislav Ankudinov)
 * Sec. 4.7.3: two instances of $P(\lambda; \theta)$ should be $P(\lambda \mid \theta)$ for consistency (Ross Alexander)
+* After eq. 4.2: "is worth" should be "are worth" (Brad Rafferty)
