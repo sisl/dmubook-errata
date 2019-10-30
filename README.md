@@ -28,3 +28,4 @@ This item will be fixed in a later printing:
 * Sec. 1.5: `[10]` should be swapped with `[11]` (Vladislav Ankudinov)
 * Sec. 4.7.3: two instances of $P(\lambda; \theta)$ should be $P(\lambda \mid \theta)$ for consistency (Ross Alexander)
 * After eq. 4.2: "is worth" should be "are worth" (Brad Rafferty)
+* Immediately before eq. 5.31: the $n$ should be $m$ to be consistent with eq. 5.31 (Kyu-Young Kim)
