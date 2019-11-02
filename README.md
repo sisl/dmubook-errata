@@ -16,7 +16,7 @@ These items have been fixed in the second printing and later.
 * Ch. 7: references 12, 15, 38, and 63 should have "POMDPS" and "MDPS" changed to "POMDPs" and "MDPs" (Zongzhang Zhang)
 * Eq. 6.31: should be $\sum_s b(s) \sum_{s'} O(o \mid s', a)T(s' \mid s, a)$ (Junzi Zhang)
 
-This item will be fixed in a later printing:
+These item will be fixed in a later printing:
 
 * Alg. 4.1: U should have \pi as a superscript everywhere (Benjamin Antin)
 * Eq. 4.24 and 4.27: The rightmost Ta should be transposed (Tim Wheeler)
@@ -29,3 +29,5 @@ This item will be fixed in a later printing:
 * Sec. 4.7.3: two instances of $P(\lambda; \theta)$ should be $P(\lambda \mid \theta)$ for consistency (Ross Alexander)
 * After eq. 4.2: "is worth" should be "are worth" (Brad Rafferty)
 * Immediately before eq. 5.31: the $n$ should be $m$ to be consistent with eq. 5.31 (Kyu-Young Kim)
+* First sentence of 5.2.2: change "Q" to "U"
+* Sec. 4.3.1 last sentence: "four" should be "five" (Preston Rogers)
