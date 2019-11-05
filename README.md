@@ -31,3 +31,4 @@ These item will be fixed in a later printing:
 * Immediately before eq. 5.31: the $n$ should be $m$ to be consistent with eq. 5.31 (Kyu-Young Kim)
 * First sentence of 5.2.2: change "Q" to "U"
 * Sec. 4.3.1 last sentence: "four" should be "five" (Preston Rogers)
+* Eq. 4.25: The T_s immediately after the inverse should be T_a (Allan Li)
