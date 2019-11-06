@@ -32,3 +32,4 @@ These item will be fixed in a later printing:
 * First sentence of 5.2.2: change "Q" to "U"
 * Sec. 4.3.1 last sentence: "four" should be "five" (Preston Rogers)
 * Eq. 4.25: The T_s immediately after the inverse should be T_a (Allan Li)
+* Alg. 6.2: sampling state from b should be within the repeat loop so lines 4 and 5 should be swapped (Tim Wheeler)
