@@ -16,7 +16,7 @@ These items have been fixed in the second printing and later.
 * Ch. 7: references 12, 15, 38, and 63 should have "POMDPS" and "MDPS" changed to "POMDPs" and "MDPs" (Zongzhang Zhang)
 * Eq. 6.31: should be $\sum_s b(s) \sum_{s'} O(o \mid s', a)T(s' \mid s, a)$ (Junzi Zhang)
 
-These item will be fixed in a later printing:
+These items will be fixed in the 6th printing:
 
 * Alg. 4.1: U should have \pi as a superscript everywhere (Benjamin Antin)
 * Eq. 4.24 and 4.27: The rightmost Ta should be transposed (Tim Wheeler)
@@ -33,3 +33,4 @@ These item will be fixed in a later printing:
 * Sec. 4.3.1 last sentence: "four" should be "five" (Preston Rogers)
 * Eq. 4.25: The T_s immediately after the inverse should be T_a (Allan Li)
 * Alg. 6.2: sampling state from b should be within the repeat loop so lines 4 and 5 should be swapped (Tim Wheeler)
+* Eq. 6.1: drop the t subscripts (Kyu-Young Kim)
