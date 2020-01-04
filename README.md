@@ -34,3 +34,6 @@ These items will be fixed in the 6th printing:
 * Eq. 4.25: The T_s immediately after the inverse should be T_a (Allan Li)
 * Alg. 6.2: sampling state from b should be within the repeat loop so lines 4 and 5 should be swapped (Tim Wheeler)
 * Eq. 6.1: drop the t subscripts (Kyu-Young Kim)
+
+These items will be fixed in a future printing:
+* For consistency, algorithms in Ch. 7 should use U instead of V.
